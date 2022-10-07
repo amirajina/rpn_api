@@ -1,0 +1,5 @@
+USER = 'amir'
+PW = 'pwd'
+DB = 'rpn_db'
+HOST = 'localhost'
+PORT = '5432'
